@@ -17,8 +17,8 @@ Links:
 5. [styled-components Official Documentation](https://styled-components.com/), [SegmentFault Related Articles](https://segmentfault.com/a/1190000014682665)
 6. [Project Gitee Address (faster access in China)](https://gitee.com/MTrun/react-big-screen)
 
-Project Screenshots:
-![Interface Display](https://github.com/uploads/images/2020/0927/205317_db15e619_4964818.gif "Interface Display.gif")
+Demo Screenshots:
+![Interface Display](https://github.com/walker396/react-big-screen/blob/main/demo.gif "Interface Display.gif")
 
 ## 2. File Directory Description
 
